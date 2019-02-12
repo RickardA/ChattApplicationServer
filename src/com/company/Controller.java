@@ -9,6 +9,7 @@ public class Controller {
     }
 
     public void start(){
+        System.out.println("hej");
         server.startServer();
     }
 }
